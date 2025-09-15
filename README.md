@@ -1,0 +1,1 @@
+# stroe_rating
